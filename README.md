@@ -55,83 +55,81 @@ Publish them on [YouTube](https://www.youtube.com/@bbitofficial).
 
 ### [1. Pong](https://20_games_challenge.gitlab.io/games/pong/)
 
-[Source code](https://github.com/Alexander-Jordan/pong-godot)
-
-[![pong-icon](images/pong_icon_512x512.png)](https://brallex.itch.io/pong)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/pong-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/pong)
 
 ### [2. Flappy Birds](https://20_games_challenge.gitlab.io/games/flappy/)
 
-In progress...
+![In Progress](https://img.shields.io/badge/in_progress-orange?style=for-the-badge)
 
 ### [3. Breakout](https://20_games_challenge.gitlab.io/games/breakout/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [4. Jetpack Joyride](https://20_games_challenge.gitlab.io/games/jetpack/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [5. Space Invaders](https://20_games_challenge.gitlab.io/games/invaders/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [6. Frogger](https://20_games_challenge.gitlab.io/games/frogger/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [7. Asteroids](https://20_games_challenge.gitlab.io/games/asteroids/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [8. Indy 500](https://20_games_challenge.gitlab.io/games/indy/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [9. Pac Man](https://20_games_challenge.gitlab.io/games/pacman/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [10. Conway's Game of Life](https://20_games_challenge.gitlab.io/games/life/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [11. Super Mario Bros.](https://20_games_challenge.gitlab.io/games/mario/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
-### [12. VVVVVV](https://20_games_challenge.gitlab.io/games/vvvvvv/)
+### [12. VVVVVV](https://20_games_challenge.gitlab.io/games/vvvvvv/) (Maybe [Peggle](https://en.wikipedia.org/wiki/Peggle) instead)
 
-Not started yet.
-(Maybe I'll do [Peggle](https://en.wikipedia.org/wiki/Peggle) instead)
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [13. Worms](https://20_games_challenge.gitlab.io/games/worms/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [14. Dig Dug](https://20_games_challenge.gitlab.io/games/dig_dug/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [15. Star Fox](https://20_games_challenge.gitlab.io/games/star_fox/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [16. Crash Bandicoot](https://20_games_challenge.gitlab.io/games/crash/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [17. Doom](https://20_games_challenge.gitlab.io/games/doom/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [18. Mario Kart](https://20_games_challenge.gitlab.io/games/mario_kart/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [19. Minecraft](https://20_games_challenge.gitlab.io/games/minecraft/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
 ### [20. Portal](https://20_games_challenge.gitlab.io/games/portal/)
 
-Not started yet.
+![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
