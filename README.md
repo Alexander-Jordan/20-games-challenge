@@ -60,11 +60,12 @@ Publish them on [YouTube](https://www.youtube.com/@bbitofficial).
 
 ### [2. Flappy Birds](https://20_games_challenge.gitlab.io/games/flappy/)
 
-![In Progress](https://img.shields.io/badge/in_progress-orange?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/flappy-bird-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/flappy-bird)
 
 ### [3. Breakout](https://20_games_challenge.gitlab.io/games/breakout/)
 
-![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/in_progress-orange?style=for-the-badge)
 
 ### [4. Jetpack Joyride](https://20_games_challenge.gitlab.io/games/jetpack/)
 
