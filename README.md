@@ -57,11 +57,13 @@ Publish them on [YouTube](https://www.youtube.com/@bbitofficial).
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/pong-godot)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/pong)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/I2wzvSR1DRc)
 
 ### [2. Flappy Birds](https://20_games_challenge.gitlab.io/games/flappy/)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/flappy-bird-godot)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/flappy-bird)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/5j1bS85R9l4)
 
 ### [3. Breakout](https://20_games_challenge.gitlab.io/games/breakout/)
 
