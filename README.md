@@ -34,7 +34,7 @@ Only do max 1-2 `Stretch goals`, but no requirement.
 
 This simply means that every game should have:
 
-- Menus (main, settings, and pause)
+- Some simple menu (main, pause, and/or settings)
 - One level (no more, no less)
 - Win & loose conditions
 - Zero bugs (yelp, good luck!)
@@ -50,6 +50,15 @@ Create a devlog video about the process of making each game throughout this chal
 At the end of the challenge, create a summary video.
 
 Publish them on [YouTube](https://www.youtube.com/@bbitofficial).
+
+### Rule 6: 1 week, max 1 month
+
+Even if I only have a few hours per week to make these, I still want a time limit.
+
+So from game 5 I'll be implementing this rule:
+
+- Try to complete the game during the same week you started it
+- Stop and move on to the next game after max 1 month
 
 ## List of games
 
