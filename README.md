@@ -85,7 +85,7 @@ Publish them on [YouTube](https://www.youtube.com/@bbitofficial).
 
 ![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
-### [7. Asteroids](https://20_games_challenge.gitlab.io/games/asteroids/)
+### [7. Spacewar!](https://20_games_challenge.gitlab.io/games/spacewar/)
 
 ![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
@@ -105,7 +105,7 @@ Publish them on [YouTube](https://www.youtube.com/@bbitofficial).
 
 ![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
-### [12. VVVVVV](https://20_games_challenge.gitlab.io/games/vvvvvv/) (Maybe [Peggle](https://en.wikipedia.org/wiki/Peggle) instead)
+### [12. VVVVVV](https://20_games_challenge.gitlab.io/games/vvvvvv/)
 
 ![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
@@ -133,10 +133,10 @@ Publish them on [YouTube](https://www.youtube.com/@bbitofficial).
 
 ![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
-### [19. Minecraft](https://20_games_challenge.gitlab.io/games/minecraft/)
+### [19. Portal](https://20_games_challenge.gitlab.io/games/portal/)
 
 ![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
-### [20. Portal](https://20_games_challenge.gitlab.io/games/portal/)
+### [20. Minecraft](https://20_games_challenge.gitlab.io/games/minecraft/)
 
 ![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
