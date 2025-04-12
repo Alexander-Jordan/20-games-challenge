@@ -51,7 +51,7 @@ At the end of the challenge, create a summary video.
 
 Publish them on [YouTube](https://www.youtube.com/@bbitofficial).
 
-### Rule 6: 1 week, max 1 month
+### Rule 6: 1 week, max 1 month per game/video
 
 Even if I only have a few hours per week to make these, I still want a time limit.
 
@@ -59,6 +59,7 @@ So from game 5 I'll be implementing this rule:
 
 - Try to complete the game during the same week you started it
 - Stop and move on to the next game after max 1 month
+- Same time limit applies to the devlog
 
 ## List of games
 
