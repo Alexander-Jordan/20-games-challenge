@@ -89,15 +89,17 @@ So from game 5 I'll be implementing this rule:
 
 ### [5. Space Invaders](https://20_games_challenge.gitlab.io/games/invaders/)
 
-![In Progress](https://img.shields.io/badge/in_progress-orange?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/space-invaders-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/space-invaders)
 
 ### [6. Frogger](https://20_games_challenge.gitlab.io/games/frogger/)
 
-![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/frogger-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/frogger)
 
 ### [7. Spacewar!](https://20_games_challenge.gitlab.io/games/spacewar/)
 
-![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/in_progress-orange?style=for-the-badge)
 
 ### [8. Indy 500](https://20_games_challenge.gitlab.io/games/indy/)
 
