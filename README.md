@@ -114,11 +114,12 @@ So from game 5 I'll be implementing this rule:
 
 ### [10. Conway's Game of Life](https://20_games_challenge.gitlab.io/games/life/)
 
-![In Progress](https://img.shields.io/badge/in_progress-orange?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/conways-game-of-life-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/conways-game-of-life)
 
 ### [11. Super Mario Bros.](https://20_games_challenge.gitlab.io/games/mario/)
 
-![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/in_progress-orange?style=for-the-badge)
 
 ### [12. VVVVVV](https://20_games_challenge.gitlab.io/games/vvvvvv/)
 
