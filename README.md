@@ -71,14 +71,14 @@ So from game 5 I'll be implementing this rule:
 
 ### [2. Flappy Birds](https://20_games_challenge.gitlab.io/games/flappy/)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/flappy-bird-godot)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/flappy-bird)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/birdy-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/birdy)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/5j1bS85R9l4)
 
 ### [3. Breakout](https://20_games_challenge.gitlab.io/games/breakout/)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/breakout-godot)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/breakout)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/brick-basher-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/brick-basher)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Za_R3hqwXtI)
 
 ### [4. Jetpack Joyride](https://20_games_challenge.gitlab.io/games/jetpack/)
@@ -104,8 +104,8 @@ So from game 5 I'll be implementing this rule:
 
 ### [8. Indy 500](https://20_games_challenge.gitlab.io/games/indy/)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/indy-500-godot)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/indy-500)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/rally-racer-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/rally-racer)
 
 ### [9. Pac Man](https://20_games_challenge.gitlab.io/games/pacman/)
 
