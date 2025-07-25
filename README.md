@@ -89,8 +89,8 @@ So from game 5 I'll be implementing this rule:
 
 ### [5. Space Invaders](https://20_games_challenge.gitlab.io/games/invaders/)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/space-invaders-godot)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/space-invaders)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/alien-attack-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/alien-attack)
 
 ### [6. Frogger](https://20_games_challenge.gitlab.io/games/frogger/)
 
