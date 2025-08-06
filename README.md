@@ -94,8 +94,8 @@ So from game 5 I'll be implementing this rule:
 
 ### [6. Frogger](https://20_games_challenge.gitlab.io/games/frogger/)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/frogger-godot)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/frogger)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/froggie-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/froggie)
 
 ### [7. Spacewar!](https://20_games_challenge.gitlab.io/games/spacewar/)
 
