@@ -109,8 +109,8 @@ So from game 5 I'll be implementing this rule:
 
 ### [9. Pac Man](https://20_games_challenge.gitlab.io/games/pacman/)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/pac-man-godot)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/pacman)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/pik-pok-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/pik-pok)
 
 ### [10. Conway's Game of Life](https://20_games_challenge.gitlab.io/games/life/)
 
