@@ -127,44 +127,23 @@ So from game 5 I'll be implementing this rule:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/conways-game-of-life-godot)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/conways-game-of-life)
 
-### [11. Super Mario Bros.](https://20_games_challenge.gitlab.io/games/mario/)
+### [11. Super Mario Bros.](https://20_games_challenge.gitlab.io/games/mario/) & [12. VVVVVV](https://20_games_challenge.gitlab.io/games/vvvvvv/)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/fabulous-fabio-godot)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/fabulous-fabio)
 
-### [12. VVVVVV](https://20_games_challenge.gitlab.io/games/vvvvvv/)
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/fabulous-fabio-godot)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/fabulous-fabio)
-
-### [13. Worms](https://20_games_challenge.gitlab.io/games/worms/)
+### [13. Worms](https://20_games_challenge.gitlab.io/games/worms/) & [14. Dig Dug](https://20_games_challenge.gitlab.io/games/dig_dug/)
 
 ![In Progress](https://img.shields.io/badge/in_progress-orange?style=for-the-badge)
 
-### [14. Dig Dug](https://20_games_challenge.gitlab.io/games/dig_dug/)
+### [15. Star Fox](https://20_games_challenge.gitlab.io/games/star_fox/) & [16. Crash Bandicoot](https://20_games_challenge.gitlab.io/games/crash/)
 
 ![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
-### [15. Star Fox](https://20_games_challenge.gitlab.io/games/star_fox/)
+### [17. Doom](https://20_games_challenge.gitlab.io/games/doom/) & [18. Mario Kart](https://20_games_challenge.gitlab.io/games/mario_kart/)
 
 ![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
 
-### [16. Crash Bandicoot](https://20_games_challenge.gitlab.io/games/crash/)
-
-![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
-
-### [17. Doom](https://20_games_challenge.gitlab.io/games/doom/)
-
-![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
-
-### [18. Mario Kart](https://20_games_challenge.gitlab.io/games/mario_kart/)
-
-![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
-
-### [19. Portal](https://20_games_challenge.gitlab.io/games/portal/)
-
-![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
-
-### [20. Minecraft](https://20_games_challenge.gitlab.io/games/minecraft/)
+### [19. Portal](https://20_games_challenge.gitlab.io/games/portal/) & [20. Minecraft](https://20_games_challenge.gitlab.io/games/minecraft/)
 
 ![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
