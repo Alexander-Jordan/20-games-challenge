@@ -22,6 +22,15 @@ There are 10 steps with at least 2 games that you can choose from.
 
 This means that by following this rule, by the end of it, I'll end up making exactly 20 games.
 
+#### Twist from game 11 (half mark)
+
+As an extra challenge, the 2 games in each step will be merged into 1 game, starting from game 11.
+This has many benefits, and the main ones are:
+
+- Saving time
+- Learn to create original game ideas from existing games
+- Copyright becomes less of an issue
+
 ### Rule 2: Keep it simple
 
 Just do what is necessary to replicate the core game.
