@@ -91,6 +91,7 @@ So from game 5 I'll be implementing this rule:
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/alien-attack-godot)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/alien-attack)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/RNPPIVa6L7Q)
 
 ### [6. Frogger](https://20_games_challenge.gitlab.io/games/frogger/)
 
@@ -124,11 +125,12 @@ So from game 5 I'll be implementing this rule:
 
 ### [12. VVVVVV](https://20_games_challenge.gitlab.io/games/vvvvvv/)
 
-![In Progress](https://img.shields.io/badge/in_progress-orange?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander-Jordan/fabulous-fabio-godot)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://brallex.itch.io/fabulous-fabio)
 
 ### [13. Worms](https://20_games_challenge.gitlab.io/games/worms/)
 
-![To Do](https://img.shields.io/badge/to_do-gray?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/in_progress-orange?style=for-the-badge)
 
 ### [14. Dig Dug](https://20_games_challenge.gitlab.io/games/dig_dug/)
 
